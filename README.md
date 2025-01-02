@@ -1,10 +1,10 @@
 # BMERIT Newsletter Archives
 
-Used for storing BMERIT's monthly newsletters.
+Used for hosting BMERIT's monthly newsletters.
 
 
 ### File structure:
-File structure for the repo should be as follows:
+File structure for the repo should be as followed:
 
 ```
 └── [year]
@@ -20,3 +20,5 @@ Example: `2024_06.html`
 ### Usage:
 Links will look like the following:
 `https://bmerit.github.io/newsletters/[year]/[file].html`
+
+And should be linked accordingly in `Newsletter Archives` section on the website.
