@@ -21,4 +21,4 @@ Example: `2024_06.html`
 Links will look like the following:
 `https://bmerit.github.io/newsletters/[year]/[file].html`
 
-And should be linked accordingly in `Newsletter Archives` section on the website.
+And should be linked accordingly in  [Newsletters](https://bmerit.vercel.app/newsletters)  section on the website.
